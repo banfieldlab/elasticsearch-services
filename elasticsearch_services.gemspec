@@ -10,5 +10,5 @@ Gem::Specification.new do |s|
   s.email       = 'shufeilei@berkeley.edu'
   s.files       = ['lib/elasticsearch_services.rb']
   s.homepage    = 'https://rubygems.org/gems/elasticsearch-services'
-  s.metadata    = { "source_code_uri" => "https://github.com/banfield/elasticsearch-services" }
+  s.metadata    = { "source_code_uri" => "https://github.com/banfieldlab/elasticsearch-services" }
 end
